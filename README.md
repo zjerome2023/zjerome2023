@@ -5,7 +5,7 @@ I'm a 4th-year student passionate about building scalable, user-centric web appl
 
 - **Education:** B.S. in Computer Science at Florida Atlantic University (Graduating May, 2027)
 - **Current Focus:** Advanced system design, performance optimization in React.
-- **Learning:** Docker
+- **Learning:** SQL, Swift, Docker
 
 ---
 
